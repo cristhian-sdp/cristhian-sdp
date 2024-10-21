@@ -99,27 +99,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/cristhian-sdp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="30" alt="linkedin logo"/>
-  </a>
-  <a href="https://wa.link/tz3lq0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="43" height="30" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/Cristhian_sdp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="43" height="30" alt="telegram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@cristhian_sdp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="43" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/cristhiansdpmo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="43" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/cristhian_sdp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://paypal.me/csdp010?country.x=PE&locale.x=es_XC" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="43" height="30" alt="paypal logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/cristhian-sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="30" alt="linkedin logo"/></a>
+  <a href="https://wa.link/tz3lq0" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="43" height="30" alt="whatsapp logo"/></a>
+  <a href="https://t.me/Cristhian_sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="43" height="30" alt="telegram logo"/></a>
+  <a href="https://www.youtube.com/@cristhian_sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="43" height="30" alt="youtube logo"/></a>
+  <a href="https://www.facebook.com/cristhiansdpmo" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="43" height="30" alt="facebook logo"/></a>
+  <a href="https://www.instagram.com/cristhian_sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="30" alt="instagram logo"/></a>
+  <a href="https://paypal.me/csdp010?country.x=PE&locale.x=es_XC" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="43" height="30" alt="paypal logo"/</a>
 </div>
 
 ###
