@@ -1,77 +1,148 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><b>Hola , Me llamo Cristhian Díaz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! Mi nombre es:<br>Cristhian Díaz</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FF6F14&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World..&hearts;++;Front-End+Developer,;Estudiante+de+Ingeniería+Electrónica,;Aprendizaje+Continuo/Investigador..<3"></a>
 </p>
 
-## **📝Acerca de mí**
+###
 
-- Soy un entusiasta programador autodidacta en constante búsqueda de conocimiento y desafíos emocionantes. Soy joven y apasionado por la programación, y disfruto aprendiendo diversos lenguajes de programación y tecnologías emergentes.
-- Actualmente, me encuentro inmerso en el fascinante mundo del desarrollo web, donde estoy aprendiendo y mejorando mis habilidades día a día. Resolviendo problemas y creando soluciones innovadoras que hagan la vida más fácil para los demás.
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h2 align="center">💡 About me</h2>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+###
 
-<p align="center">
-<br>
+<p align="left">🖐️ Soy un estudiante universitario y programador autodidacta en búsqueda de conocimiento y desafíos. Soy joven y apasionado por la programación, y disfruto aprendiendo diversos lenguajes y tecnologías emergentes.<br><br>
 
-- **Language**:
+💻 Actualmente, me encuentro fascinado por el mundo del desarrollo web, donde estoy aprendiendo y mejorando mis habilidades día a día. Resolviendo problemas y creando soluciones innovadoras que hagan la vida más fácil para los demás.</p>
 
-  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  <br>
+###
 
-- **Front-End Developer**:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  <br>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
-- **Cloud Hosting**:
+###
 
-  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-  <br>
+<h4 align="left">- Languaje:</h4>
 
-- **Softwares and Tools**:
+###
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  <br>
+<div align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+</div>
 
-- **Extras**:
+###
 
-  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<h4 align="left">- FrontEnd Developer:</h4>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<h4 align="left">- Hosting:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="30" alt="netlify logo"  />
+</div>
+
+###
+
+<h4 align="left">- Design:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
+</div>
+
+###
+
+<h4 align="left">- Software and Tools:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="notion logo"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+</div>
+
+###
+
+<h4 align="left">- Extras:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="30" alt="markdown logo"  />
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="30" alt="cisco logo"/>
+</div>
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left">🌐 Redes Sociales</h2>
+
+###
 
 <div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristhian-sdp&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=FF6F14&icon_color=FF6F14&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhian-sdp&show_icons=true&locale=en&layout=compact&line_height=20&title_color=FF6F14&icon_color=FF6F14&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
-
-## <b> Redes Sociales..!👍</b>
-
-<div align='left'>
-<ul>
-<li>
-<a href="https://www.linkedin.com/in/cristhian-sdp" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Cristhian sdp-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:steffanod948@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  cristhian sdp-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-</ul>
+  <a href="steffanod948@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="30" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/cristhian-sdp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.link/tz3lq0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="43" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/Cristhian_sdp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="43" height="30" alt="telegram logo"  />
+  </a>
+  <a href="www.youtube.com/@cristhian_sdp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="43" height="30" alt="youtube logo"  />
+  </a>
+  <a href="www.facebook.com/cristhiansdpmo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="43" height="30" alt="facebook logo"  />
+  </a>
+  <a href="www.instagram.com/cristhian_sdp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://paypal.me/csdp010?country.x=PE&locale.x=es_XC" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="43" height="30" alt="paypal logo"  />
+  </a>
 </div>
+
+###
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cristhian-sdp&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=cristhian-sdp&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhian-sdp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cristhian-sdp/cristhian-sdp/output/snake.svg" alt="Snake animation" />
+
+###
