@@ -13,7 +13,7 @@
 
 <p align="left">🖐️ Soy un estudiante universitario y programador autodidacta en búsqueda de conocimiento y desafíos. Soy joven y apasionado por la programación, y disfruto aprendiendo diversos lenguajes y tecnologías emergentes.<br><br>
 
-💻 Actualmente, me encuentro fascinado por el mundo del desarrollo web, donde estoy aprendiendo y mejorando mis habilidades día a día. Resolviendo problemas y creando soluciones innovadoras que hagan la vida más fácil para los demás.</p>
+💻 Actualmente, me encuentro fascinado por el mundo del desarrollo web, donde estoy aprendiendo y mejorando mis habilidades día a día. Resolviendo problemas y creando soluciones innovadoras que hagan la vida más fácil y util para los demás.</p>
 
 ###
 
