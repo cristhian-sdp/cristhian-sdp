@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">- Languaje:</h4>
+<h3 align="left">Languaje:</h4>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">- FrontEnd Developer:</h4>
+<h3 align="left">FrontEnd Developer:</h4>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h4 align="left">- Hosting:</h4>
+<h3 align="left">Hosting:</h4>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h4 align="left">- Design:</h4>
+<h3 align="left">Design:</h4>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h4 align="left">- Software and Tools:</h4>
+<h3 align="left">Software and Tools:</h4>
 
 ###
 
@@ -83,7 +83,7 @@
 
 ###
 
-<h4 align="left">- Extras:</h4>
+<h3 align="left">Extras:</h4>
 
 ###
 
