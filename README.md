@@ -1,6 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! Mi nombre es:<br>Cristhian Díaz</h1>
+
+![Banner de LinkedIn](img/banner-linkedin.webp)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FF6F14&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World..&hearts;++;Front-End+Developer,;Estudiante+de+Ingeniería+Electrónica,;Aprendizaje+Continuo/Investigador..<3"></a>
 </p>
