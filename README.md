@@ -16,49 +16,81 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="55" height="55" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="55" height="55" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" height="55" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="55" height="55" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="55" height="55" alt="Cloudflare logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="55" height="55" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma logo"  />
+<h3>🎨 Frontend </h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/><br>HTML
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  /><br>CSS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  /><br>Tailwind
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /><br>Bootstrap
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /><br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  /><br>Firebase
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="40" alt="Cloudflare logo"  /><br>Cloudflare
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
 
-<h2 align="left">💬 Contact me</h2>
-<p>✨ Si necesitas contactarme, estaré feliz de conversar contigo sobre 🤝 colaboración en proyectos emocionantes o 🌟 ideas innovadoras. ¡No dudes en escribirme! 📩</p>
+<h3>🚀 Backend </h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table>
+    <tr>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><br>Python
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  /><br>C#
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/cristhian-sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="45" alt="linkedin logo"/></a>
-  <a href="https://wa.link/tz3lq0" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="45" alt="WhatsApp logo"/></a>
-  <a href="https://t.me/Cristhian_sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="45" alt="telegram logo"/></a>
-  <a href="https://www.youtube.com/@cristhian-sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="45" alt="YouTube logo"/></a>
-  <a href="https://www.facebook.com/cristhiansdpmo" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="45" alt="Facebook logo"/></a>
-  <a href="https://www.instagram.com/cristhian_sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="45" alt="Instagram logo"/></a>
-  <a href="https://paypal.me/csdp010?country.x=PE&locale.x=es_XC" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="50" height="45" alt="PayPal logo"/></a>
+<h3>🛠️ IDE & Tools </h3>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /><br>VS Code
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  /><br>Visual Studio
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  /><br>Notion
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /><br>Git
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /><br>GitHub
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
 
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> Github Stats</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristhian-sdp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhian-sdp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vision-friendly-dark&hide_border=true&order=2" height="160" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristhian-sdp&radius=16&theme=merko&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=cristhian-sdp&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.shion.dev/api/top-langs/?username=cristhian-sdp&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
@@ -70,3 +102,15 @@
 
 ###
 
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cristhian-sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="linkedin logo"/></a>
+  <a href="https://wa.link/tz3lq0" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="50" alt="WhatsApp logo"/></a>
+  <a href="https://t.me/Cristhian_sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="45" alt="telegram logo"/></a>
+  <a href="https://www.youtube.com/@cristhian-sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="45" alt="YouTube logo"/></a>
+</div>
+
+###
