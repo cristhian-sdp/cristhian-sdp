@@ -107,10 +107,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/cristhian-sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="linkedin logo"/></a>
-  <a href="https://wa.link/tz3lq0" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="50" alt="WhatsApp logo"/></a>
-  <a href="https://t.me/Cristhian_sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="45" alt="telegram logo"/></a>
-  <a href="https://www.youtube.com/@cristhian-sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="45" alt="YouTube logo"/></a>
+  <a href="https://www.linkedin.com/in/cristhian-sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"/></a>
+  <a href="https://wa.link/tz3lq0" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="40" alt="WhatsApp logo"/></a>
+  <a href="https://t.me/Cristhian_sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"/></a>
+  <a href="https://www.youtube.com/@cristhian-sdp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="YouTube logo"/></a>
 </div>
 
 ###
