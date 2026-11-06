@@ -94,14 +94,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristhian-sdp/cristhian-sdp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristhian-sdp/cristhian-sdp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cristhian-sdp/cristhian-sdp/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact me</h2>
 
 ###
